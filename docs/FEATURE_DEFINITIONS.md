@@ -209,7 +209,7 @@ R=\min(\lfloor H/2\rfloor,\lfloor W/2\rfloor).
 
 Let $r(u,v)$ denote Euclidean distance from the spectral center.
 
-#### High-, mid-, and low-frequency regions
+#### High-frequency, mid-frequency, and low-frequency regions
 
 The implementation defines:
 
